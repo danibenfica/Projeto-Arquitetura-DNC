@@ -1,4 +1,4 @@
-![desafio1](https://github.com/danibenfica/Desafio-1-DNC/assets/103818625/3392ae7f-af2d-454e-9446-e6e664e196a4)
+![desafio1](https://github.com/danibenfica/Projeto-Arquitetura-DNC/assets/103818625/880e8bc0-fafc-4a0f-b130-94f6306e38e5)
 
 ## Documentação do primeiro desafio da DNC
 
