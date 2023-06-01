@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/responsive.css">
+    <title>Tradição de projetos em arquitetura</title>
+</head>
+<body>
+    <section id="firstSection">
+        <h1 id="firstText">Tradição em projetos de arquitetura</h1>
+        <h4 id="secondText">Arquitetura residencial e comercial.</h4>
+    </section>
+    <section id="secondSection">
+        <div id="secondSectionMenu">
+            <p>
+                <span class="firstSpan"
+                id="projectsCount">
+                0
+            </span>
+            <br>
+                empreendimentos construídos
+            </p>
+            <p>
+
+                <span class="firstSpan"
+                id="experienceYears">
+                0
+            </span>
+            <br>
+                anos de mercado e experiência
+            </p>
+            <p>
+                <span class="firstSpan"
+                id="projectsArea">
+                0
+            </span>
+            <br>
+                m² em projetos construídos
+            </p>
+
+        </div>
+    </section>
+    <section id="thirdSection">
+        <div id="thirdSectionDiv">
+            <p>
+                <span>Arquitetos com História e Experiência.<br><br></span>
+                Nós realizamos desde 2002 projetos e gerenciamento de obras. <br>
+                Com mais de 800 projetos e 2.000.000 de m² construídos, tendo<br>
+                como principal proposta transformar em realidade os sonhos de<br>
+                seus clientes, criando projetos personalizados, unindo a tradição<br> e a modernidade em nossos projetos.
+            </p>
+            <img
+            onclick="openModal()"
+            id="homeImg"
+            src="./assets/imgs/image 1.png"
+            alt="Imagem de um projeto">
+        </div>
+    </section>
+
+    <section id="form">
+        <label>Conheça mais sobre nossos serviços:</label>
+        <form action="https://api.sheetmonkey.io/form/7KPobZyaaE3fEnkCufuMEf" method="post">
+            <input type="text" placeholder="Nome" name="Name" class="inputForm" required>
+            <input type="email" placeholder="Email" name="Email" class="inputForm" required>
+            <input type="hidden" name="Created" value="x-sheetmonkey-current-date-time" />
+            <button id="buttonContact" type="submit">Fale Conosco</button>
+        </form>
+    </section>
+
+    <section id="windowModal">
+        <div id="modal">
+            <button 
+            onclick="closeModal()"
+            id="closeButton">
+            X
+        </button>
+
+            <img
+            id="imgModal"
+            src="./assets/imgs/image 1.png"
+            alt="Imagem de um projeto ampliada">
+        </div>
+    </section>
+    
+    <script src="./assets/js/index.js"></script>
+</body>
+</html>
