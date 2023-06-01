@@ -5,6 +5,11 @@
 E aqui estamos nós, mais um desafio da DNC que eu amei fazer! Este é um site de arquitetura fictício, onde o usuário tem a possibilidade de entrar em contato para obter mais informações sobre a empresa. Me empolguei tanto que desenvolvi algumas pequenas funcionalidades a mais em JavaScript.
 Abaixo estarei deixando alguns links e instruções de como baixar o projeto! 😄
 
+## Resolução do desafio:
+
+# Link do site disponibilizado: https://projeto-arquitetura-dnc.netlify.app/
+# Link da planilha de registro de informação: https://docs.google.com/spreadsheets/d/1a-XPLDMwGK4mT-V7418z_cyShH5618oyPSDzPdb_QWc/edit?usp=sharing
+
 ## Como baixar o projeto:
 
 1. Na página do repositório, clique no botão verde "Code" (ou "Código") no canto superior direito.
