@@ -7,8 +7,8 @@ Abaixo estarei deixando alguns links e instruções de como baixar o projeto! �
 
 ## Resolução do desafio:
 
-### Link do site disponibilizado: https://projeto-arquitetura-dnc.netlify.app/
-### Link da planilha de registro de informação: https://docs.google.com/spreadsheets/d/1a-XPLDMwGK4mT-V7418z_cyShH5618oyPSDzPdb_QWc/edit?usp=sharing
+[Link do projeto online aqui!](https://projeto-arquitetura-dnc.netlify.app/)
+[Link da planilha de registro de informação aqui!](https://docs.google.com/spreadsheets/d/1a-XPLDMwGK4mT-V7418z_cyShH5618oyPSDzPdb_QWc/edit?usp=sharing)
 
 ## Como baixar o projeto:
 
